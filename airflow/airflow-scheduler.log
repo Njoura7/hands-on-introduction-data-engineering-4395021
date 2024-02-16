@@ -1,0 +1,20 @@
+2024-02-16 20:08:49,520 INFO - Starting the scheduler
+2024-02-16 20:08:49,520 INFO - Processing each file at most -1 times
+2024-02-16 20:08:49,528 INFO - Launched DagFileProcessorManager with pid: 19844
+2024-02-16 20:08:49,532 INFO - Resetting orphaned tasks for active dag runs
+2024-02-16 20:08:49,549 INFO - Configured default timezone Timezone('UTC')
+2024-02-16 20:10:51,798 INFO - Exiting gracefully upon receiving signal 15
+2024-02-16 20:10:52,801 INFO - Sending Signals.SIGTERM to group 19844. PIDs of all processes in the group: [19844]
+2024-02-16 20:10:52,802 INFO - Sending the signal Signals.SIGTERM to group 19844
+2024-02-16 20:10:53,216 INFO - Process psutil.Process(pid=19844, status='terminated', exitcode=0, started='20:08:48') (19844) terminated with exit code 0
+2024-02-16 20:10:53,219 INFO - Sending Signals.SIGTERM to group 19844. PIDs of all processes in the group: []
+2024-02-16 20:10:53,219 INFO - Sending the signal Signals.SIGTERM to group 19844
+2024-02-16 20:10:53,220 INFO - Sending the signal Signals.SIGTERM to process 19844 as process group is missing.
+2024-02-16 20:10:53,221 INFO - Exited execute loop
+2024-02-16 20:11:06,286 INFO - Starting the scheduler
+2024-02-16 20:11:06,287 INFO - Processing each file at most -1 times
+2024-02-16 20:11:06,295 INFO - Launched DagFileProcessorManager with pid: 21154
+2024-02-16 20:11:06,297 INFO - Resetting orphaned tasks for active dag runs
+2024-02-16 20:11:06,314 INFO - Configured default timezone Timezone('UTC')
+2024-02-16 20:16:06,656 INFO - Resetting orphaned tasks for active dag runs
+2024-02-16 20:21:06,896 INFO - Resetting orphaned tasks for active dag runs
