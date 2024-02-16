@@ -121,3 +121,10 @@
 [2024-02-16T20:23:38.751+0000] {logging_mixin.py:150} INFO - [2024-02-16T20:23:38.751+0000] {dag.py:2742} INFO - Sync 1 DAGs
 [2024-02-16T20:23:38.767+0000] {logging_mixin.py:150} INFO - [2024-02-16T20:23:38.767+0000] {dag.py:3504} INFO - Setting next_dagrun for example_short_circuit_decorator to 2024-02-15T20:23:38.766959+00:00, run_after=2024-02-16T20:23:38.766959+00:00
 [2024-02-16T20:23:38.812+0000] {processor.py:179} INFO - Processing /usr/local/python/3.10.13/lib/python3.10/site-packages/airflow/example_dags/example_short_circuit_decorator.py took 0.089 seconds
+[2024-02-16T20:24:36.011+0000] {processor.py:157} INFO - Started process (PID=27267) to work on /usr/local/python/3.10.13/lib/python3.10/site-packages/airflow/example_dags/example_short_circuit_decorator.py
+[2024-02-16T20:24:36.011+0000] {processor.py:826} INFO - Processing file /usr/local/python/3.10.13/lib/python3.10/site-packages/airflow/example_dags/example_short_circuit_decorator.py for tasks to queue
+[2024-02-16T20:24:36.012+0000] {logging_mixin.py:150} INFO - [2024-02-16T20:24:36.012+0000] {dagbag.py:541} INFO - Filling up the DagBag from /usr/local/python/3.10.13/lib/python3.10/site-packages/airflow/example_dags/example_short_circuit_decorator.py
+[2024-02-16T20:24:36.019+0000] {processor.py:836} INFO - DAG(s) dict_keys(['example_short_circuit_decorator']) retrieved from /usr/local/python/3.10.13/lib/python3.10/site-packages/airflow/example_dags/example_short_circuit_decorator.py
+[2024-02-16T20:24:36.033+0000] {logging_mixin.py:150} INFO - [2024-02-16T20:24:36.033+0000] {dag.py:2742} INFO - Sync 1 DAGs
+[2024-02-16T20:24:36.049+0000] {logging_mixin.py:150} INFO - [2024-02-16T20:24:36.049+0000] {dag.py:3504} INFO - Setting next_dagrun for example_short_circuit_decorator to 2024-02-15T20:24:36.049158+00:00, run_after=2024-02-16T20:24:36.049158+00:00
+[2024-02-16T20:24:36.101+0000] {processor.py:179} INFO - Processing /usr/local/python/3.10.13/lib/python3.10/site-packages/airflow/example_dags/example_short_circuit_decorator.py took 0.092 seconds
